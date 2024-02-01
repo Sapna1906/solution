@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Karantina&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+body{
+    background-color: rgba(0, 0, 33, 1);
+}
+nav{
+    background-color: rgba(217, 217, 217, 1);
+    overflow: hidden;
+}
+nav a{
+    color: rgba(5, 217, 232, 1);
+    text-decoration: none;
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+.button{
+    background-color: rgba(0, 0, 33, 1);
+    height: 20px;
+    width: 60px;
+    color: white;
+    text-align: center;
+}
+.heading{
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Karantina', system-ui;
+    font-size: xx-large;
+}
+.content{
+    margin-left: 20px;
+    color: white;
+}
+h2{
+    font-family: 'Saira Condensed', sans-serif;
+}
+.button2{
+    text-decoration: none;
+    background-color: rgba(5, 217, 232, 1);
+    color: white;
+    margin-left: 20px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.swiper{
+    width: 80%;
+    height: fit-content;
+}
+.swiper-slide img{
+    width: 573px;
+    height: 500px;
+    margin-left: 180px;
+}
