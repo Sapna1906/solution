@@ -61,3 +61,29 @@ h2{
     height: 500px;
     margin-left: 180px;
 }
+footer{
+    background-color: rgba(209, 247, 255, 1);
+    color: rgba(0, 86, 123, 1);
+}
+.logo{
+    width: 100px;
+    height: 60px;
+    float: left;
+    padding-right: 250px;
+}
+.bottom img{
+    height: 20px;
+    width: 20px;
+    padding-left: 150px;
+    padding-right: 8px;
+}
+.heart{
+    height: 18px;
+    width: 18px;
+}
+.end{
+    margin-left: 200px;
+}
+.bottom{
+    margin-right: 250px;
+} 
